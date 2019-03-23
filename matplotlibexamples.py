@@ -19,7 +19,6 @@ import numpy as np
 np.random.seed(444)
 
 
-
 fig, _ = plt.subplots()
 
 
